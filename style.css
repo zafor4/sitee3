@@ -1,0 +1,21 @@
+body{
+    background-color: #265073;
+}
+
+.customContainer{
+    height: 550px;
+    width: 550px;
+    background: #2D9596;
+
+
+
+}
+
+.input{
+
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
